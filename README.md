@@ -22,7 +22,7 @@
 **Фактический результат:**  
 После  удаления даты рождения появляется белый экран  
 
-**Вложение:** [image.png (Cкрин каст белого экрана)  ](https://drive.google.com/file/d/1c7LcQC7XWi7pTS2yAkJc-H0gevwLed8e/view?usp=drive_link)
+**Вложение:** [image.png (Cкринкаст белого экрана)  ](https://drive.google.com/file/d/1c7LcQC7XWi7pTS2yAkJc-H0gevwLed8e/view?usp=drive_link)
 
 **Обнаружил:** Пырлик Андрей  
 **Назначен:** Вадик Орлов  
